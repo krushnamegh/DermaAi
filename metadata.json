@@ -1,0 +1,7 @@
+{
+  "name": "Dermannn_Ai tool",
+  "description": "A sophisticated AI-powered dermatology assistant that analyzes skin health using advanced computer vision and provides personalized skincare recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
